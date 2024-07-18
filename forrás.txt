@@ -1,0 +1,5 @@
+https://online.winmenetrend.hu/futar/vehicles?more_info=1
+https://www.bkv.hu/hu/jarmuveink/autobusz
+https://www.bkv.hu/hu/jarmuveink/trolibusz
+https://www.bkv.hu/hu/jarmuveink/villamos
+https://www.bkv.hu/hu/jarmuveink/metro
