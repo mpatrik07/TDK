@@ -1,0 +1,20 @@
+Kód források/code references:
+https://medium.com/swlh/python-for-transit-get-the-most-out-of-your-gtfs-with-this-python-package-44d0b732f657
+https://towardsdatascience.com/mapping-geograph-data-in-python-610a963d2d7f
+
+BKK:
+https://online.winmenetrend.hu/futar/vehicles?more_info=1
+https://www.bkv.hu/hu/jarmuveink/autobusz
+https://www.bkv.hu/hu/jarmuveink/trolibusz
+https://www.bkv.hu/hu/jarmuveink/villamos
+https://www.bkv.hu/hu/jarmuveink/metro
+https://vt-arriva.hu/jarmupark
+Wikipedia
+https://www.man.eu/hu/hu/autobusz/az-man-lion_s-city/technika-es-specifikacio/minden-tipus-es-specifikacio.html
+
+VOLÁN:
+https://online.winmenetrend.hu/futar/vehicles?more_info=1 ----> Google, Wikipedia
+
+MÁV:
+https://hu.wikipedia.org/wiki/Stadler_FLIRT
+https://hu.wikipedia.org/wiki/Stadler_KISS
